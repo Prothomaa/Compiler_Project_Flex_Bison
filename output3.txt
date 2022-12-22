@@ -1,0 +1,85 @@
+This is a header file
+
+Variable declared
+k assigned 20.00
+k assigned 25.00
+Function Declaration!
+
+Single Line Comment
+Variable declared
+Variable declared
+Variable declared
+Value taken from user for f
+Value of f is 100.00
+a assigned 10.00
+b assigned 4.00
+c assigned 3.00
+d assigned 10.00
+m assigned 4.00
+p assigned 3.00
+Increment(++) Value of expression : 4.00
+Decrement(--) Value of expression : 9.00
+Value of expression : 64.00
+Result of += e assigned 10.00
+Result of -= e assigned 4.00
+Logical AND is False
+e assigned 4.00
+Logical OR is True
+e assigned 4.00
+e assigned 400.00
+e assigned 410.00
+e assigned 407.00
+f assigned 2.46
+Modulus assigned 2.00
+Square Value of expression : 165649.00
+Cubic Value of expression : 1000.00
+Square-root Value of expression : 20.17
+GCD values assigned 2.00
+LCM values assigned 20.00
+Max values assigned 10.00
+Min values assigned 4.00
+Factorial Value of expression : 120.00
+Fibonacci series is= 0 1 1 2 3 5 8 13 21 34
+Value of expression : 5.00
+SINE Value of expression : 0.73
+COSINE Value of expression : 1.00
+TANGENT Value of expression : 0.04
+Ln Value of expression : 6.01
+Variable declared
+Value taken from user for y
+2023 not leap year
+No! 4 not prime
+Yes! 3 prime
+All the divisors of 10 are -> 1 2 5 10 
+Summation of 1st 10 numbers is 55
+2023 Odd Number
+Value of Expression in Valid Condition: 16807.00
+Condition false
+Square Value of Expression in Valid Condition: 8.00
+Factorial Value of Expression in Valid Condition: 40320.00
+For loop Found
+Value of for loop: 1.50
+Value of for loop: 1.50
+Value of for loop: 1.50
+For loop Found
+Value of for loop: 8.50
+Value of for loop: 8.50
+Value of for loop: 8.50
+Value of for loop: 8.50
+Value of for loop: 8.50
+While loop found & it works properly!
+Value in while loop: 7.00
+Value in while loop: 7.00
+Value in while loop: 7.00
+TANGENT While loop found & it works properly!
+Value in while loop: -1.73
+Value in while loop: -1.73
+Value in while loop: -1.73
+CASE found 2 !
+Switch done !
+Executed Default
+Switch done !
+Value in Do while loop: 14.00
+Do While loop found !
+Multiline Comment
+Execution Done!
